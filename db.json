@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "message": "first log",
+      "id": 1,
+      "attention": false,
+      "tech": "Murod",
+      "date": "2021-11-02T10:13:43.778Z"
+    },
+    {
+      "message": "second log",
+      "id": 2,
+      "attention": true,
+      "tech": "Yunusxo'ja",
+      "date": "2021-11-02T10:13:31.634Z"
+    }
+  ],
+  "techs": [
+    {
+      "name": "Murod Parmonov",
+      "id": 1,
+      "date": "2021-11-02T13:19:23.695Z"
+    },
+    {
+      "name": "Sherzod Aliyev",
+      "id": 2,
+      "date": "2021-11-02T13:19:34.904Z"
+    }
+  ]
+}
